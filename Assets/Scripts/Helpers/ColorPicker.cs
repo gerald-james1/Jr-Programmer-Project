@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class ColorPicker : MonoBehaviour
 {
+    public Renderer transporterUnitRenderer;
     public Color[] AvailableColors;
     public Button ColorButtonPrefab;
     
